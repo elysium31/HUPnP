@@ -32,7 +32,6 @@ namespace Ui {
     class GenericInput;
 }
 
-//class QValidator;
 
 //
 //
