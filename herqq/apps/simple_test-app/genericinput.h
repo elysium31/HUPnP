@@ -25,13 +25,14 @@
 
 #include "i_dataholder.h"
 
+#include <QValidator>
 #include <QWidget>
 
 namespace Ui {
     class GenericInput;
 }
 
-class QValidator;
+//class QValidator;
 
 //
 //
